@@ -1,0 +1,5 @@
+package net.santosh.springboot.model;
+
+public class Customer {
+
+}

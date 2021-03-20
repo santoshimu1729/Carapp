@@ -1,0 +1,5 @@
+package net.santosh.springboot.service;
+
+public class ICarServiceImool {
+
+}
